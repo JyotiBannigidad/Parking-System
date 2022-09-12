@@ -1,0 +1,12 @@
+C:\Jyoti\ParkingSolution\Cavu.Common\bin\Debug\net6.0\Cavu.Common.deps.json
+C:\Jyoti\ParkingSolution\Cavu.Common\bin\Debug\net6.0\Cavu.Common.dll
+C:\Jyoti\ParkingSolution\Cavu.Common\bin\Debug\net6.0\Cavu.Common.pdb
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.csproj.AssemblyReference.cache
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.AssemblyInfoInputs.cache
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.AssemblyInfo.cs
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.csproj.CoreCompileInputs.cache
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.dll
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\refint\Cavu.Common.dll
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\Cavu.Common.pdb
+C:\Jyoti\ParkingSolution\Cavu.Common\obj\Debug\net6.0\ref\Cavu.Common.dll
