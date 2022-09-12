@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAVU.ParkingAPI", "CAVU.ParkingAPI.csproj", "{B69AEB1D-761B-4357-ACAB-B86A0C63FE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cavu.Services", "..\Cavu.Services\Cavu.Services.csproj", "{7E4E67C1-928D-43AD-868D-7798D34AE77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cavu.DataAccess", "..\Cavu.DataAccess\Cavu.DataAccess.csproj", "{24782FB3-D9B9-412B-9E1D-769948AB6540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cavu.Common", "..\Cavu.Common\Cavu.Common.csproj", "{99D9A715-433B-40F5-B0B5-BAE221319B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69AEB1D-761B-4357-ACAB-B86A0C63FE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69AEB1D-761B-4357-ACAB-B86A0C63FE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69AEB1D-761B-4357-ACAB-B86A0C63FE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69AEB1D-761B-4357-ACAB-B86A0C63FE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4E67C1-928D-43AD-868D-7798D34AE77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4E67C1-928D-43AD-868D-7798D34AE77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4E67C1-928D-43AD-868D-7798D34AE77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4E67C1-928D-43AD-868D-7798D34AE77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24782FB3-D9B9-412B-9E1D-769948AB6540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24782FB3-D9B9-412B-9E1D-769948AB6540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24782FB3-D9B9-412B-9E1D-769948AB6540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24782FB3-D9B9-412B-9E1D-769948AB6540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D9A715-433B-40F5-B0B5-BAE221319B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9A715-433B-40F5-B0B5-BAE221319B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9A715-433B-40F5-B0B5-BAE221319B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9A715-433B-40F5-B0B5-BAE221319B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225317C9-F1DD-4B29-9958-0DABB50A09AF}
+	EndGlobalSection
+EndGlobal
